@@ -1,3 +1,6 @@
 Apex class
 No
-Well
+Yes
+wow
+Class TriggerMaster
+
